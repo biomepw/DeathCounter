@@ -1,0 +1,5 @@
+name: DeathCounter
+version: ${project.version}
+main: pw.biome.deathcounter.DeathCounter
+api-version: 1.16
+depend: [BiomeChat]
